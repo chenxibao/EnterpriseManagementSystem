@@ -1,0 +1,3 @@
+# EnterpriseManagementSystem
+EnterpriseManagementSystem企业防伪码生成程序
+包括6位防伪标志码，9位产品序列码，以及字母混合产品码，二维码等
